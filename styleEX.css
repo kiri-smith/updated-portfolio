@@ -1,0 +1,146 @@
+.main-container{
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+.nav-deets{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: black;
+}
+
+.main-container{
+    background-color: white;
+}
+
+.card-image{
+    width: 20%;
+}
+
+.about-me{
+    width: 90%;
+    margin: auto;
+    padding: 15px;
+}
+
+.big-link{
+    color: white !important;
+}
+
+.card-one-container{
+    margin: auto ;
+    padding: 15px;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+}
+
+.project-links{
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: row;
+    padding-left: 10%;
+}
+
+.first-link{
+    margin-right: 5%;
+    font-size: 16px;
+    background-color: gray;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+
+}
+
+.second-link{
+    font-size: 16px;
+    background-color: gray;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+   
+}
+
+
+
+.project-pics{
+    display: flex;
+}
+
+.project-pic-one{
+    padding right: 10px;
+}
+
+.title-text{
+    font-size: 16px;
+    padding-right: 60%;
+    
+}
+
+.workday-link{
+    color: black!important;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 12px;
+    
+}
+
+.third-link{
+    margin-right: 5%;
+    font-size: 16px;
+    background-color: gray!important;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+
+}
+
+.fourth-link{
+    font-size: 16px;
+    background-color: gray!important;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+   
+}
+
+.workday-img{
+    width: 100%;
+}
+
+
+
+.quiz-img{
+    width: 100%;
+    padding-top: 5%;
+}
+
+#assignments{
+    background-color: black;
+}
+
+.footer-deets{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: white;
+
+}
+
+.footer-links{
+    color: black;
+}
+
+#big-footer{
+    font-size: 24px;
+}
+
+@media only screen and (max-width: 1100px){
+
+  }
+  
+
+  @media screen and (max-width: 768px) {
+    .nav-deets {
+        display: block !important;
+        flex-direction: column !important;
+        color: white !important;
+    }
+}
+
+  @media screen and (max-width: 576px) {
+    .nav-deets {
+        display: block !important;
+        flex-direction: column !important;
+        color: white !important;
+    }
+  }
