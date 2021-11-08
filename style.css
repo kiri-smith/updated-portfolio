@@ -12,6 +12,12 @@
     font-size: 50px !important;
 }
 
+.mid-place{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .main-container{
     background-color: gray;
 }
@@ -60,23 +66,94 @@ font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color: white !important;
 }
 
-@media only screen and (max-width: 1100px){
 
-  }
-  
 
   @media screen and (max-width: 768px) {
-    .nav-deets {
+
+    .nav-specs{
         display: block !important;
+        margin-left: auto !important;
+        margin-right: auto !important; 
+        background-color: plum;
+    }
+
+    .nav-links {
+        display: flex !important;
         flex-direction: column !important;
-        color: white !important;
+        background-color: plum;
+    }
+
+    .about-me{
+        display: flex !important;
+        flex-direction: column !important;
+    }
+
+    .intro{
+        display: flex !important;
+        justify-content: center !important;
+        align-items: center;
+        flex-direction: column !important;
+    }
+
+    .main-container{
+        background-color: plum;
+    }
+
+    .card-image{
+        display: block !important;
+        margin-left: auto !important;
+        margin-right: auto !important;
+    }
+
+    .card-stacked{
+        display: block !important;
+        margin-left: auto !important;
+        margin-right: auto !important; 
+    }
+
+    .contact-content{
+        display: flex !important;
+        flex-direction: column !important;
     }
 }
 
   @media screen and (max-width: 576px) {
-    .nav-deets {
+
+    .nav-specs{
         display: block !important;
-        flex-direction: column !important;
-        color: white !important;
+        margin-left: auto !important;
+        margin-right: auto !important;
+        background-color: plum;  
     }
-  }
+    
+    .nav-links {
+        display: flex !important;
+        flex-direction: column !important;
+        background-color: plum;
+    }
+
+    .about-me{
+        display: flex !important;
+        flex-direction: column !important;
+    }
+
+    .intro{
+        display: flex !important;
+        justify-content: center !important;
+        align-items: center;
+        flex-direction: column !important;
+    }
+
+    #me{
+        margin: auto;
+    }
+
+    .main-container{
+        background-color: plum;
+    }
+
+    .contact-content{
+        display: flex !important;
+        flex-direction: column !important;
+    }
+}
