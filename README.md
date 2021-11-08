@@ -17,15 +17,15 @@ For this project, I used HTML and CSS to create an updated portfolio. The portfo
 
 ## Deployed Link
 
-* [ https://kiri-smith.github.io/portfolio-update/](#)
+* [View My Portfolio Site](https://kiri-smith.github.io/updated-portfolio/)
 
 ## Author
 
 * Kiri Smith 
 
-- [https://github.com/kiri-smith](https://github.com/)
-- [https://www.linkedin.com/in/kiri-lynne-smith/](https://www.linkedin.com/)
-- [https://medium.com/@kirilynne](https://medium.com/)
+- [View My Github Profile](https://github.com/kiri-smith)
+- [Connect with Me on LinkedIn!](https://www.linkedin.com/in/kiri-lynne-smith/)
+- [Check Out My Blogs](https://medium.com/@kirilynne)
 
 ## License
 
